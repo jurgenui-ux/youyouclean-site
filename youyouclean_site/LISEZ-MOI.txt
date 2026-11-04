@@ -1,0 +1,9 @@
+SITE YOUYOUCLEAN — MODE D'EMPLOI
+
+1. Ouvrez index.html dans un navigateur pour voir le site.
+2. Pour publier gratuitement : créez un compte GitHub, un dépôt public nommé 'youyouclean-site', ajoutez index.html à la racine, puis activez Settings > Pages > Deploy from a branch > main / (root).
+3. L'URL sera de type https://VOTRE-COMPTE.github.io/youyouclean-site/.
+4. Avant publication : vérifiez les prestations, prix, zones, identité juridique, mentions légales, politique de confidentialité si nécessaire, et conditions d'utilisation.
+5. Tous les boutons de rendez-vous déclenchent un appel au 06 95 15 59 91. Aucun formulaire de réservation.
+6. Le logo fourni a servi de référence chromatique (jaune, bleu, noir). Le site utilise un logo typographique sans l'inscription 'Mobile Detailing'.
+7. Pour le SEO : après publication, ajoutez l'adresse du site à votre fiche Google Business Profile. Un nom de domaine propre est facultatif et généralement payant.
